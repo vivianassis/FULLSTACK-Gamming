@@ -1,0 +1,33 @@
+p {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#formasdepagamento {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align-last: center;
+}
+
+tr td {
+    text-align: center;
+    width: "25%";
+    color: navy;
+}
+
+.a_esquerda {
+    text-align-last: left;
+}
+
+.bordas {
+    border: oldlace;
+    border: "1px";
+    border-style: groove;
+    border-radius: "25%";
+}
